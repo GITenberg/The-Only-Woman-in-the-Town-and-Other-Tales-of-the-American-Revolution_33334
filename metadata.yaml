@@ -1,0 +1,39 @@
+_repo: The-Only-Woman-in-the-Town-and-Other-Tales-of-the-American-Revolution_33334
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33334-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Prichard, Sarah J. (Sarah Johnson)
+    aliases:
+    - Pritchard, S. J. (Sarah Johnson)
+    - Pritchard, Sarah J. (Sarah Johnson)
+    - Prichard, Sarah Johnson
+    - Prichard, S. J. (Sarah Johnson)
+    birthdate: 1830
+    deathdate: 1909
+    gutenberg_agent_id: '36339'
+    url: http://www.gutenberg.org/2009/agents/36339
+description: ''
+gutenberg_issued: '2010-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: 'The only woman in the town -- A Windham lamb in Boston town -- How
+  one boy helped the British troops out of Boston in 1776 -- Pussy Dean''s beacon
+  fire -- David Bushnell and his American turtle -- The birthday of our nation --
+  The overthrow of the statue of King George -- Sleet and snow -- Patty Rutter: the
+  Quaker doll who slept in Independence Hall -- Becca Blackstone''s turkeys at Valley
+  Forge -- How two little stockings saved Fort Safety -- A day and a night in the
+  old Porter House.'
+title: The Only Woman in the Town, and Other Tales of the American Revolution
+url: http://www.gutenberg.org/ebooks/33334
